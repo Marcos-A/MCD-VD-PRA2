@@ -1,0 +1,21 @@
+Reason to dislike Sciences,Ethnicity,Count
+sciences_hard,Asian,13
+sciences_not_belonged,Asian,5
+sciences_useless,Asian,12
+sciences_disliked_labs_and_practice,Asian,4
+sciences_not_support_outside_school,Asian,8
+sciences_hard,Black,41
+sciences_not_belonged,Black,12
+sciences_useless,Black,20
+sciences_disliked_labs_and_practice,Black,16
+sciences_not_support_outside_school,Black,17
+sciences_hard,Hispanic,50
+sciences_not_belonged,Hispanic,37
+sciences_useless,Hispanic,30
+sciences_disliked_labs_and_practice,Hispanic,16
+sciences_not_support_outside_school,Hispanic,29
+sciences_hard,White,335
+sciences_not_belonged,White,142
+sciences_useless,White,259
+sciences_disliked_labs_and_practice,White,138
+sciences_not_support_outside_school,White,133

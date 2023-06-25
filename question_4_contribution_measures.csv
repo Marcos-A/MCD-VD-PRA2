@@ -1,0 +1,17 @@
+ETHNICITY,score,contributions_valued_by_supervisor,contributions_valued_by_co-workers,contributions_valued_by_supervisor_percent,contributions_valued_by_co-workers_percent
+Asian,4.0,89,79,0.443,0.393
+Asian,3.0,86,99,0.428,0.493
+Asian,2.0,19,18,0.095,0.09
+Asian,1.0,7,5,0.035,0.025
+Black,4.0,114,100,0.435,0.382
+Black,3.0,107,121,0.408,0.462
+Black,2.0,24,27,0.092,0.103
+Black,1.0,17,14,0.065,0.053
+Hispanic,4.0,171,146,0.441,0.376
+Hispanic,3.0,143,162,0.369,0.418
+Hispanic,2.0,57,62,0.147,0.16
+Hispanic,1.0,17,18,0.044,0.046
+White,4.0,1294,1178,0.466,0.424
+White,3.0,1087,1242,0.392,0.447
+White,2.0,283,285,0.102,0.103
+White,1.0,112,71,0.04,0.026
